@@ -17,4 +17,8 @@ DOMAIN-SUFFIX,modelcontextprotocol.io
 DOMAIN-SUFFIX,modelcontextprotocol.net
 DOMAIN-SUFFIX,modelcontextprotocol.org
 DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,ntp.org
+DOMAIN-SUFFIX,siftscience.com
+DOMAIN-SUFFIX,sentry.io
 DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,datadoghq
